@@ -1,0 +1,16 @@
+D:\NetworkedGame\NetworkedGame.Library\bin\Debug\netcoreapp3.1\NetworkedGame.Library.deps.json
+D:\NetworkedGame\NetworkedGame.Library\bin\Debug\netcoreapp3.1\NetworkedGame.Library.dll
+D:\NetworkedGame\NetworkedGame.Library\bin\Debug\netcoreapp3.1\NetworkedGame.Library.pdb
+D:\NetworkedGame\NetworkedGame.Library\obj\Debug\netcoreapp3.1\NetworkedGame.Library.csprojAssemblyReference.cache
+D:\NetworkedGame\NetworkedGame.Library\obj\Debug\netcoreapp3.1\NetworkedGame.Library.AssemblyInfoInputs.cache
+D:\NetworkedGame\NetworkedGame.Library\obj\Debug\netcoreapp3.1\NetworkedGame.Library.AssemblyInfo.cs
+D:\NetworkedGame\NetworkedGame.Library\obj\Debug\netcoreapp3.1\NetworkedGame.Library.dll
+D:\NetworkedGame\NetworkedGame.Library\obj\Debug\netcoreapp3.1\NetworkedGame.Library.pdb
+D:\NetworkedGame\NetworkedGame.Library\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+D:\NetworkedGame\NetworkedGame.Library\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+D:\NetworkedGame\NetworkedGame.Library\bin\Debug\netcoreapp3.1\SharpDX.dll
+D:\NetworkedGame\NetworkedGame.Library\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+D:\NetworkedGame\NetworkedGame.Library\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+D:\NetworkedGame\NetworkedGame.Library\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+D:\NetworkedGame\NetworkedGame.Library\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+D:\NetworkedGame\NetworkedGame.Library\obj\Debug\netcoreapp3.1\NetworkedGame.Library.csproj.CopyComplete
