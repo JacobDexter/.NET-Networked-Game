@@ -3,7 +3,7 @@
   <SourceFile>D:/NetworkedGame/NetworkedGame/Content/playersprite.png</SourceFile>
   <SourceTime>2020-12-09T18:41:10.5629688+00:00</SourceTime>
   <DestFile>D:/NetworkedGame/NetworkedGame/Content/bin/Windows/Content/playersprite.xnb</DestFile>
-  <DestTime>2020-12-09T21:50:14.0308817+00:00</DestTime>
+  <DestTime>2020-12-16T01:10:58.1413056+00:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2020-08-10T16:17:54+01:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
@@ -26,7 +26,7 @@
   </Parameters>
   <Parameters>
     <Key>ResizeToPowerOfTwo</Key>
-    <Value>False</Value>
+    <Value>True</Value>
   </Parameters>
   <Parameters>
     <Key>MakeSquare</Key>

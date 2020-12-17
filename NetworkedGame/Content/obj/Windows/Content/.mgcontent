@@ -4,9 +4,11 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
+    <File>D:/NetworkedGame/NetworkedGame/Content/File.spritefont</File>
     <File>D:/NetworkedGame/NetworkedGame/Content/playersprite.png</File>
   </SourceFiles>
   <DestFiles>
+    <File>nametag.spritefont</File>
     <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>

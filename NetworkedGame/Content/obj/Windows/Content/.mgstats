@@ -1,1 +1,3 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/NetworkedGame/NetworkedGame/Content/File.spritefont","D:/NetworkedGame/NetworkedGame/Content/bin/Windows/Content/nametag.xnb","FontDescriptionProcessor","SpriteFontContent",2005,37922,0.2550537
+"D:/NetworkedGame/NetworkedGame/Content/playersprite.png","D:/NetworkedGame/NetworkedGame/Content/bin/Windows/Content/playersprite.xnb","TextureProcessor","Texture2DContent",4005,131157,0.25923

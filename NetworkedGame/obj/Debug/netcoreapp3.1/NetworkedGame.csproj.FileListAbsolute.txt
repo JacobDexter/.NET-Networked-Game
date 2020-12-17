@@ -35,3 +35,4 @@ D:\NetworkedGame\NetworkedGame\obj\Debug\netcoreapp3.1\NetworkedGame.csproj.Copy
 D:\NetworkedGame\NetworkedGame\obj\Debug\netcoreapp3.1\NetworkedGame.dll
 D:\NetworkedGame\NetworkedGame\obj\Debug\netcoreapp3.1\NetworkedGame.pdb
 D:\NetworkedGame\NetworkedGame\bin\Debug\netcoreapp3.1\Content\playersprite.xnb
+D:\NetworkedGame\NetworkedGame\bin\Debug\netcoreapp3.1\Content\nametag.xnb

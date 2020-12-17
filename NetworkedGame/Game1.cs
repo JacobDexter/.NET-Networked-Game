@@ -21,6 +21,7 @@ namespace NetworkedGame
 
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+        private SpriteFont font;
 
         public NetworkedGame()
         {
@@ -48,6 +49,7 @@ namespace NetworkedGame
         protected override void LoadContent()
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
+            font = Content.Load<SpriteFont>("nametag");
 
             // TODO: use this.Content to load your game content here
         }
@@ -103,6 +105,14 @@ namespace NetworkedGame
                 for (int i = 0; i < PlayerSprites.Count; i++)
                 {
                     _spriteBatch.Draw(PlayerSprites[i], PlayerPositions[i], Color.White);
+                    if(localServerIndex == i)
+                    {
+                        _spriteBatch.DrawString(font, (i + 1).ToString(), new Vector2(PlayerPositions[i].X + (PlayerSprites[i].Width / 2), PlayerPositions[i].Y - 30.0f), Color.Red);
+                    }
+                    else
+                    {
+                        _spriteBatch.DrawString(font, (i + 1).ToString(), new Vector2(PlayerPositions[i].X + (PlayerSprites[i].Width / 2), PlayerPositions[i].Y - 30.0f), Color.Black);
+                    }
                 }
             }
 
