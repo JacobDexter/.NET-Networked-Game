@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\NetworkedGame\\NetworkedGame\\NetworkedGame.csproj": {}
+    "C:\\Users\\Jacob\\Desktop\\CNA\\NetworkedGame\\NetworkedGame\\NetworkedGame.csproj": {}
   },
   "projects": {
-    "D:\\NetworkedGame\\NetworkedGame.Library\\NetworkedGame.Library.csproj": {
+    "C:\\Users\\Jacob\\Desktop\\CNA\\NetworkedGame\\NetworkedGame.Library\\NetworkedGame.Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NetworkedGame\\NetworkedGame.Library\\NetworkedGame.Library.csproj",
+        "projectUniqueName": "C:\\Users\\Jacob\\Desktop\\CNA\\NetworkedGame\\NetworkedGame.Library\\NetworkedGame.Library.csproj",
         "projectName": "NetworkedGame.Library",
-        "projectPath": "D:\\NetworkedGame\\NetworkedGame.Library\\NetworkedGame.Library.csproj",
+        "projectPath": "C:\\Users\\Jacob\\Desktop\\CNA\\NetworkedGame\\NetworkedGame.Library\\NetworkedGame.Library.csproj",
         "packagesPath": "C:\\Users\\Jacob\\.nuget\\packages\\",
-        "outputPath": "D:\\NetworkedGame\\NetworkedGame.Library\\obj\\",
+        "outputPath": "C:\\Users\\Jacob\\Desktop\\CNA\\NetworkedGame\\NetworkedGame.Library\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -60,14 +60,14 @@
         }
       }
     },
-    "D:\\NetworkedGame\\NetworkedGame\\NetworkedGame.csproj": {
+    "C:\\Users\\Jacob\\Desktop\\CNA\\NetworkedGame\\NetworkedGame\\NetworkedGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\NetworkedGame\\NetworkedGame\\NetworkedGame.csproj",
+        "projectUniqueName": "C:\\Users\\Jacob\\Desktop\\CNA\\NetworkedGame\\NetworkedGame\\NetworkedGame.csproj",
         "projectName": "NetworkedGame",
-        "projectPath": "D:\\NetworkedGame\\NetworkedGame\\NetworkedGame.csproj",
+        "projectPath": "C:\\Users\\Jacob\\Desktop\\CNA\\NetworkedGame\\NetworkedGame\\NetworkedGame.csproj",
         "packagesPath": "C:\\Users\\Jacob\\.nuget\\packages\\",
-        "outputPath": "D:\\NetworkedGame\\NetworkedGame\\obj\\",
+        "outputPath": "C:\\Users\\Jacob\\Desktop\\CNA\\NetworkedGame\\NetworkedGame\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -87,8 +87,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\NetworkedGame\\NetworkedGame.Library\\NetworkedGame.Library.csproj": {
-                "projectPath": "D:\\NetworkedGame\\NetworkedGame.Library\\NetworkedGame.Library.csproj"
+              "C:\\Users\\Jacob\\Desktop\\CNA\\NetworkedGame\\NetworkedGame.Library\\NetworkedGame.Library.csproj": {
+                "projectPath": "C:\\Users\\Jacob\\Desktop\\CNA\\NetworkedGame\\NetworkedGame.Library\\NetworkedGame.Library.csproj"
               }
             }
           }

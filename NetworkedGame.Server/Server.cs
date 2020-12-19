@@ -126,9 +126,9 @@ namespace NetworkedGame.Server
 
         private void TCPSendPacketToAll(Packet packet)
         {
-            for (int i = 0; i < _clients.Count; i++)
+            foreach (Client c in _clients.Values)
             {
-                _clients[i].TCPSend(packet);
+                c.TCPSend(packet);
             }
         }
 

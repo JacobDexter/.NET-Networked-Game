@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\NetworkedGame\\NetworkedGame.Library\\NetworkedGame.Library.csproj",
+      "projectUniqueName": "C:\\Users\\Jacob\\Desktop\\CNA\\NetworkedGame\\NetworkedGame.Library\\NetworkedGame.Library.csproj",
       "projectName": "NetworkedGame.Library",
-      "projectPath": "D:\\NetworkedGame\\NetworkedGame.Library\\NetworkedGame.Library.csproj",
+      "projectPath": "C:\\Users\\Jacob\\Desktop\\CNA\\NetworkedGame\\NetworkedGame.Library\\NetworkedGame.Library.csproj",
       "packagesPath": "C:\\Users\\Jacob\\.nuget\\packages\\",
-      "outputPath": "D:\\NetworkedGame\\NetworkedGame.Library\\obj\\",
+      "outputPath": "C:\\Users\\Jacob\\Desktop\\CNA\\NetworkedGame\\NetworkedGame.Library\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
